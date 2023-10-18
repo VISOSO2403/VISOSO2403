@@ -1,25 +1,16 @@
 <p align="center" width="300">
    <img align="center" width="200" src="img/realmeimg.png" />
-   <h3 align="center">¡Hola 👋🏼, Soy Oliver! 👨🏻‍💻</h3>
+   <h3 align="center">¡Hello there 👋🏼, I'm Oliver! 👨🏻‍💻</h3>
 </p>
 
 ## 🚀 About Me:
-🌮 Orgulloso mexicano con 21 años de edad y un apetito insaciable por la tecnología.
+💻 I'm a 21-year-old software developer hailing from Mexico, and I'm on a mission to make a mark in the ever-evolving world of technology. With a passion for both web and mobile development, I find myself constantly immersed in the wonderful world of code, always eager to learn and explore.
 <br><br>
-💻 Soy un joven apasionado por el mundo del desarrollo de software, en constante búsqueda de nuevos horizontes y oportunidades para aprender y crecer. Mi historia se teje con líneas de código, y mi mente siempre está abierta para desafíos que me hagan evolucionar.
+👨‍💻 Collaboration is my jam, and I thrive when working in a team. There's something magical about the synergy that emerges when creative minds come together to tackle complex challenges. And I'm not one to hoard knowledge—I relish sharing what I've learned with others, fostering an environment of growth and camaraderie.
 <br><br>
-🚀 Mi corazón late al ritmo del desarrollo web y móvil. Desde el diseño elegante de interfaces hasta la implementación de soluciones robustas, siempre estoy listo para sumergirme en proyectos que desafíen mi creatividad y habilidades técnicas.
+✨ But here's the secret sauce: while I'm serious about my work, I firmly believe that a bit of humor sprinkled into the mix can go a long way. So, you can count on me for not just lines of code, but also some witty one-liners.
 <br><br>
-👨‍💻 Trabajo bien en equipo, porque creo firmemente que el mejor software se crea cuando las mentes se unen. Disfruto colaborar, compartir ideas y encontrar soluciones innovadoras en conjunto. La sinergia es clave para alcanzar el éxito.
-<br><br>
-📚 Además de aprender, también me encanta enseñar. Compartir conocimiento es una de las mejores maneras de crecer, y siempre estoy dispuesto a compartir lo que he aprendido con los demás. ¿Tienes alguna pregunta o quieres discutir algo interesante? ¡Estoy aquí para charlar!
-<br><br>
-✨ Siempre persigo la excelencia, pero eso no significa que no tengamos espacio para el humor en este viaje. La programación puede ser un mundo serio, ¡pero también es un lugar para la diversión! ¿Sabías que los programadores se ríen con 10 == "10" y 10 === 10? 😄
-<br><br>
-Si estás buscando a alguien apasionado, motivado y con muchas ganas de contribuir al mundo tecnológico, ¡estás en el lugar correcto! No dudes en contactarme para colaborar en emocionantes proyectos o simplemente para charlar sobre tecnología y compartir algunas risas.
-<br><br>
-¿Listo para embarcarnos juntos en este viaje tecnológico? ¡Conectemos y construyamos cosas increíbles! 🚀
-
+Ready to embark on this tech journey together? Let's connect and build some amazing stuff! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VISOSO24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visoso_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-gabriel-visoso-flores-9a59b4230) 
