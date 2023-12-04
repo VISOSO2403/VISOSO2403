@@ -4,13 +4,11 @@
 </p>
 
 ## 🚀 About Me:
-💻 I'm a 21-year-old software developer hailing from Mexico, and I'm on a mission to make a mark in the ever-evolving world of technology. With a passion for both web and mobile development, I find myself constantly immersed in the wonderful world of code, always eager to learn and explore.
+💻 I'm a 21-year-old software developer from Mexico, passionate about web and mobile development. Eager to learn and explore, I thrive in collaborative environments, believing in the magic of teamwork to tackle complex challenges. 
 <br><br>
-👨‍💻 Collaboration is my jam, and I thrive when working in a team. There's something magical about the synergy that emerges when creative minds come together to tackle complex challenges. And I'm not one to hoard knowledge—I relish sharing what I've learned with others, fostering an environment of growth and camaraderie.
+👨‍💻 I enjoy sharing knowledge, fostering growth, and creating a camaraderie-rich atmosphere. Balancing seriousness with humor, I believe that a touch of wit enhances the tech journey. 
 <br><br>
-✨ But here's the secret sauce: while I'm serious about my work, I firmly believe that a bit of humor sprinkled into the mix can go a long way. So, you can count on me for not just lines of code, but also some witty one-liners.
-<br><br>
-Ready to embark on this tech journey together? Let's connect and build some amazing stuff! 🚀
+Let's connect and build something amazing together! 🚀
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VISOSO24) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/visoso_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-gabriel-visoso-flores-9a59b4230) 
